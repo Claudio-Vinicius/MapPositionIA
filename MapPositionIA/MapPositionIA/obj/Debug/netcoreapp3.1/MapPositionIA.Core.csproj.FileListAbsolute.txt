@@ -1,0 +1,17 @@
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Core.exe
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Core.deps.json
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Core.runtimeconfig.json
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Core.runtimeconfig.dev.json
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Core.dll
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Core.pdb
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Model.dll
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\bin\Debug\netcoreapp3.1\MapPositionIA.Model.pdb
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.csproj.AssemblyReference.cache
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.AssemblyInfoInputs.cache
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.AssemblyInfo.cs
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.csproj.CoreCompileInputs.cache
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.csproj.CopyComplete
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.dll
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.pdb
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA\obj\Debug\netcoreapp3.1\MapPositionIA.Core.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapPositionIA.Core", "MapPositionIA\MapPositionIA.Core.csproj", "{7C4AD688-643C-428C-A327-7AFDBFABA389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapPositionIA.Model", "MapPositionIA.Model\MapPositionIA.Model.csproj", "{4A36FA91-3C8F-41B0-9708-A5D2AA094931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4AD688-643C-428C-A327-7AFDBFABA389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4AD688-643C-428C-A327-7AFDBFABA389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AD688-643C-428C-A327-7AFDBFABA389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4AD688-643C-428C-A327-7AFDBFABA389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A36FA91-3C8F-41B0-9708-A5D2AA094931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A36FA91-3C8F-41B0-9708-A5D2AA094931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A36FA91-3C8F-41B0-9708-A5D2AA094931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A36FA91-3C8F-41B0-9708-A5D2AA094931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AAD3552-6433-4B6F-885C-7D15D6CB65C1}
+	EndGlobalSection
+EndGlobal

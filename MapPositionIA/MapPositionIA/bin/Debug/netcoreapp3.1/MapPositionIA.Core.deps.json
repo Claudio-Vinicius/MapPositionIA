@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MapPositionIA.Core/1.0.0": {
+        "dependencies": {
+          "MapPositionIA.Model": "1.0.0"
+        },
+        "runtime": {
+          "MapPositionIA.Core.dll": {}
+        }
+      },
+      "MapPositionIA.Model/1.0.0": {
+        "runtime": {
+          "MapPositionIA.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MapPositionIA.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MapPositionIA.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

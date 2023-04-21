@@ -1,0 +1,10 @@
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\bin\Debug\netcoreapp3.1\MapPositionIA.Model.deps.json
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\bin\Debug\netcoreapp3.1\MapPositionIA.Model.dll
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\bin\Debug\netcoreapp3.1\MapPositionIA.Model.pdb
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.csproj.AssemblyReference.cache
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.AssemblyInfoInputs.cache
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.AssemblyInfo.cs
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.csproj.CoreCompileInputs.cache
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.dll
+C:\Users\silvacla\Google Drive\Aulas\2023-1\IA\MapLocationIA\MapPositionIA\MapPositionIA.Model\obj\Debug\netcoreapp3.1\MapPositionIA.Model.pdb
